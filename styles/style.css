@@ -12,6 +12,10 @@ body {
     margin-top: 1em;
 }
 
+.content-body-contact {
+    margin-top: 3em;
+}
+
 .content-container {
     display: flex;
     margin-bottom: 2em;
@@ -25,6 +29,18 @@ body {
     margin-top: 2em;
 }
 
-.image {
+.image-about {
     width:100%
+}
+
+.row {
+    margin-top: 3em;
+}
+
+.contact-header {
+    display: flex;
+}
+
+.call-icon {
+    margin-left: 1em;
 }
