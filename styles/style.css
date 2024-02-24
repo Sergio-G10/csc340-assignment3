@@ -20,3 +20,11 @@ body {
 .text-content {
     margin-left: 1em;
 }
+
+.image-container {
+    margin-top: 2em;
+}
+
+.image {
+    width:100%
+}
